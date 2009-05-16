@@ -1,5 +1,5 @@
 ---
-abstract: '[One line description of module''s purpose here]'
+abstract: 'Allows non-relative dates to be displayed as Discordian'
 author:
   - 'Kevin Falcone <falcone@bestpractical.com>'
 build_requires:
